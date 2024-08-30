@@ -1,3 +1,3 @@
 # App
 
-GymPass style app.
+GymPass style app. 
